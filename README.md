@@ -46,8 +46,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)<br/>![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=vinit-rao&icon=10&color=4)](https://visitcount.itsvg.in)
