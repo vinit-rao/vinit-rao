@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Vinit!
 
 Welcome to my GitHub profile! I'm a [Your Profession/Passion] who loves building [mention what you enjoy building, e.g., apps, websites, projects, etc.].
 
