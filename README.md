@@ -1,7 +1,7 @@
-Nice to meet you! I'm
-Vinit Rao
+# 👋 Hi, I'm <span style="font-size: 30px;">Dvinit Rao</span>
 
 I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to check out some of my work!
+
 
 ## 🛠️ Skills
 - **Languages**: Python, JavaScript
