@@ -47,8 +47,6 @@ Nice to meet you! I'm
 <br/>
 
 
-![PXL_20250512_134722372](https://github.com/user-attachments/assets/b2e76557-2caf-41c4-b27f-a2d080664987)
-
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
 Maravanthe Beach - Karnataka, India
 
