@@ -1,5 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
-
+Hi
 ![Banner](https://your-banner-image-url.com)
 
 Welcome to my GitHub! I'm a passionate [developer, designer, etc.]. I specialize in [technologies you use]. Below are some of my highlights and contributions!
