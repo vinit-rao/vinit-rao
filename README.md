@@ -5,9 +5,15 @@ I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to che
 
 
 ## 🛠️ Skills
-- **Languages**: Python, JavaScript
-- **Frameworks**: React, Node.js
-- **Tools**: Git, Docker
+- **Languages**: 
+  - ![Python](https://img.shields.io/badge/Python-%233776B3?style=for-the-badge&logo=python&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Frameworks**: 
+  - ![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  - ![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=for-the-badge&logo=node.js&logoColor=white)
+- **Tools**: 
+  - ![Git](https://img.shields.io/badge/Git-%23F14E32?style=for-the-badge&logo=git&logoColor=white)
+  - ![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 🚀 Projects
 - [Project 1](https://github.com/your-username/project-1)
