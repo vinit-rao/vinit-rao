@@ -1,8 +1,8 @@
 Nice to meet you! I'm
 ## [Vinit Rao](https://vinitrao.com)
 <br/>
-
-[Linkedin](https://www.linkedin.com/in/vinitrao1)
+https://www.youtube.com/@OfficialVinitRao/videos
+[Linkedin](https://www.linkedin.com/in/vinitrao1) [YouTube]([https://www.linkedin.com/in/vinitrao1](https://www.youtube.com/@OfficialVinitRao))
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
