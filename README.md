@@ -1,5 +1,4 @@
-#  Nice to meet you! I'm <span style="font-size: 14px;"></span>
-
+Nice to meet you! I'm
 <h1 style="font-size: 40px; text-align: center;">
   <a href="https://vinitrao.com" style="text-decoration: none; color: inherit;">Vinit Rao</a>
 </h1>
