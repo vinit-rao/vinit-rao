@@ -1,8 +1,10 @@
-Nice to meet you! I'm
-#<span style="font-size: 30px;">Vinit Rao</span>
+# 👋 Hi, I'm <span style="font-size: 14px;">Your Profession/Passion</span>
+
+<h1 style="font-size: 40px; text-align: center;">
+  <a href="https://vinitrao.com" style="text-decoration: none; color: inherit;">Vinit Rao</a>
+</h1>
 
 I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to check out some of my work!
-
 
 ## 🛠️ Skills
 - **Languages**: 
