@@ -1,5 +1,5 @@
-
-## 🌐 Socials:
+Nice to meet you! I'm
+## Vinit Rao:
 
 [vinitrao.com](https://vinitrao.com)
 <br/>
