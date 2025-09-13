@@ -2,6 +2,7 @@ Nice to meet you! I'm
 ## [Vinit Rao](https://vinitrao.com)
 <br/>
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
+<br/>
 [YouTube](https://www.youtube.com/@OfficialVinitRao)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
