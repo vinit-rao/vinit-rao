@@ -46,7 +46,7 @@ Nice to meet you! I'm
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
 ## Relaxing Section
-Sit back and enjoy the view B)
+##Sit back and enjoy the view B)
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
 Maravanthe Beach - Karnataka, India
 ---
