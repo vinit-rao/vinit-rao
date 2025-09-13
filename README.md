@@ -11,7 +11,7 @@ Here are some of the technologies I work with:
 - **Databases**: MongoDB, MySQL
 
 ## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit-rao&show_icons=true&hide_title=true&count_private=true)
 
 ## 🚀 Projects:
 Here are a few of my projects that you can check out:
