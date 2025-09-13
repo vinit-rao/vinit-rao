@@ -8,8 +8,6 @@ Nice to meet you! I'm
 ![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-# 🛠️ Technologies & Tools
-
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
