@@ -1,7 +1,6 @@
 Nice to meet you! I'm
 ## [Vinit Rao](https://vinitrao.com)
 <br/>
-https://www.youtube.com/@OfficialVinitRao/videos
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
 [YouTube]([https://www.linkedin.com/in/vinitrao1](https://www.youtube.com/@OfficialVinitRao))
 
