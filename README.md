@@ -1,7 +1,6 @@
 Nice to meet you! I'm
-## Vinit Rao:
+## [Vinit Rao](https://vinitrao.com)
 
-[vinitrao.com](https://vinitrao.com)
 <br/>
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
 
