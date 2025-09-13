@@ -3,7 +3,7 @@ Nice to meet you! I'm
   <a href="https://vinitrao.com" style="text-decoration: none; color: inherit;">Vinit Rao</a>
 </h1>
 
-I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to check out some of my work!
+I'm a Multimedia Designer who enjoys coding and more. Feel free to check out some of my work!
 
 ## 🛠️ Skills
 - **Languages**: 
