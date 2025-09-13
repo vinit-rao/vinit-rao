@@ -49,6 +49,4 @@ Nice to meet you! I'm
 
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
 Maravanthe Beach - Karnataka, India
-
-<br/><br/><br/><br/><br/><br/><br/><br/>
 <h6>no dream is too big no dreamer is too small</h6>
