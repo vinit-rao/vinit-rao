@@ -49,8 +49,4 @@ Nice to meet you! I'm
 
 
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
-<h1>Maravanthe Beach - Karnataka, India</h1>
----
-[![](https://visitcount.itsvg.in/api?id=vinit-rao&icon=10&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Maravanthe Beach - Karnataka, India
