@@ -1,4 +1,5 @@
-# 👋 Hi, I'm Vinit
+Nice to meet you! I'm
+Vinit Rao
 
 I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to check out some of my work!
 
