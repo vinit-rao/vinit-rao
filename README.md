@@ -44,6 +44,7 @@ Nice to meet you! I'm
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Maya](https://img.shields.io/badge/Maya-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) 
 <br/>
 
 
