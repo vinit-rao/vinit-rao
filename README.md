@@ -1,46 +1,11 @@
-# 🔧 Technologies & Tools
+<h1 align="center">Nice to meet you! I'm Vinit Rao</h1>
+<h3 align="center">Check out my links!</h3>
 
-## Programming Languages
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/python.svg?color=white" width="50" height="50" alt="Python"/> Python
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/java.svg?color=white" width="50" height="50" alt="Java"/> Java
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/cplusplus.svg?color=white" width="50" height="50" alt="C++"/> C++
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/html5.svg?color=white" width="50" height="50" alt="HTML"/> HTML
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/css3.svg?color=white" width="50" height="50" alt="CSS"/> CSS
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/javascript.svg?color=white" width="50" height="50" alt="JavaScript"/> JavaScript
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/postgresql.svg?color=white" width="50" height="50" alt="SQL"/> SQL (Postgres)
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/swift.svg?color=white" width="50" height="50" alt="Swift"/> Swift
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/vinitrao1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinitrao1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@officialvinitrao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@officialvinitrao" height="30" width="40" /></a>
+</p>
 
-## Creative Applications
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/aftereffects.svg?color=white" width="50" height="50" alt="After Effects"/> Adobe After Effects
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobepremierepro.svg?color=white" width="50" height="50" alt="Premiere Pro"/> Adobe Premiere Pro
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobephotoshop.svg?color=white" width="50" height="50" alt="Photoshop"/> Adobe Photoshop
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeillustrator.svg?color=white" width="50" height="50" alt="Illustrator"/> Adobe Illustrator
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/adobeindesign.svg?color=white" width="50" height="50" alt="InDesign"/> Adobe InDesign
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/figma.svg?color=white" width="50" height="50" alt="Figma"/> Figma
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/finalcutpro.svg?color=white" width="50" height="50" alt="Final Cut"/> Final Cut
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/logicpro.svg?color=white" width="50" height="50" alt="Logic Pro"/> Logic Pro
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/flstudio.svg?color=white" width="50" height="50" alt="FL Studio"/> FL Studio
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/blender.svg?color=white" width="50" height="50" alt="Blender"/> Blender
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/autodesk.svg?color=white" width="50" height="50" alt="Maya"/> Maya
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/miro.svg?color=white" width="50" height="50" alt="Miro"/> Miro
-</div>
-
-## Developer Tools
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/visualstudiocode.svg?color=white" width="50" height="50" alt="VS Code"/> Visual Studio Code
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/github.svg?color=white" width="50" height="50" alt="GitHub"/> Git/Github
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/godotengine.svg?color=white" width="50" height="50" alt="Godot"/> Godot
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/unity.svg?color=white" width="50" height="50" alt="Unity"/> Unity
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/netlify.svg?color=white" width="50" height="50" alt="Netlify"/> Netlify
-</div>
-
-## Frameworks
-<div>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/swiftui.svg?color=white" width="50" height="50" alt="SwiftUI"/> SwiftUI
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/react.svg?color=white" width="50" height="50" alt="React"/> React
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/node-dot-js.svg?color=white" width="50" height="50" alt="Node.js"/> Node.js
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/numpy.svg?color=white" width="50" height="50" alt="NumPy"/> NumPy
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
