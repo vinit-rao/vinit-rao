@@ -1,28 +1,18 @@
-# 👋 Hi, I'm Vinit!
+# 👋 Hi, I'm Vinit
 
-Welcome to my GitHub profile! I'm a [Your Profession/Passion] who loves building [mention what you enjoy building, e.g., apps, websites, projects, etc.].
+I'm a [Your Profession/Passion] who enjoys building cool stuff. Feel free to check out some of my work!
 
-## 🛠️ Skills & Technologies:
-Here are some of the technologies I work with:
+## 🛠️ Skills
+- **Languages**: Python, JavaScript
+- **Frameworks**: React, Node.js
+- **Tools**: Git, Docker
 
-- **Languages**: Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, VS Code, Postman
-- **Databases**: MongoDB, MySQL
+## 🚀 Projects
+- [Project 1](https://github.com/your-username/project-1)
+- [Project 2](https://github.com/your-username/project-2)
 
-## 📈 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vinit-rao&show_icons=true&hide_title=true&count_private=true)
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide_title=true)
 
-## 🚀 Projects:
-Here are a few of my projects that you can check out:
-
-- [Project 1](https://github.com/your-username/project-1) - A short description of Project 1
-- [Project 2](https://github.com/your-username/project-2) - A short description of Project 2
-- [Project 3](https://github.com/your-username/project-3) - A short description of Project 3
-
-## 🔗 Connect with Me:
+## 🔗 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-profile)
-- [Personal Website](https://your-website.com)
-
-Thanks for visiting my profile! 😊
