@@ -6,6 +6,8 @@ Nice to meet you! I'm
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
 
 
+![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ## Programming Languages
 
@@ -45,8 +47,6 @@ Nice to meet you! I'm
 
 ## Relaxing Section
 Sit back and enjoy the view B)
-![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
 Maravanthe Beach - Karnataka, India
 ---
