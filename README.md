@@ -44,9 +44,7 @@ Nice to meet you! I'm
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-## Relaxing Section
-##Sit back and enjoy the view B)
+<br/>
 ![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
 <h1>Maravanthe Beach - Karnataka, India</h1>
 ---
