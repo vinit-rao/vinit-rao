@@ -2,6 +2,7 @@
 ## 🌐 Socials:
 
 [vinitrao.com](https://vinitrao.com)
+<br/>
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
