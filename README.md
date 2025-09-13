@@ -5,8 +5,7 @@ Nice to meet you! I'm
 
 [Linkedin](https://www.linkedin.com/in/vinitrao1)
 
-![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## Programming Languages
 
@@ -44,6 +43,10 @@ Nice to meet you! I'm
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
+![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=monokai&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![herobg](https://github.com/user-attachments/assets/08ec0222-e6f6-4481-ab92-143552161170)
+Maravanthe Beach - Karnataka, India
 ---
 [![](https://visitcount.itsvg.in/api?id=vinit-rao&icon=10&color=4)](https://visitcount.itsvg.in)
 
