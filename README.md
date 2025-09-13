@@ -51,4 +51,4 @@ Nice to meet you! I'm
 Maravanthe Beach - Karnataka, India
 
 <br/><br/><br/><br/><br/><br/><br/><br/>
-no dream is too big no dreamer is too small
+<small>no dream is too big no dreamer is too small<small/>
