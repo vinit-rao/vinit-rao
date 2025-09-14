@@ -5,10 +5,14 @@ Nice to meet you! I'm
 
 <a href="https://www.linkedin.com/in/vinitrao1" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-
 </a>
+<a href="https://www.youtube.com/@OfficialVinitRao" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" />
+</a>
+<a href="mailto:example@email.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+
 
 ![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=midnight-purple&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
