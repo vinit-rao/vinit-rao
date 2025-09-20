@@ -13,10 +13,6 @@ Nice to meet you! I'm
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
-
-![](https://nirzak-streak-stats.vercel.app/?user=vinit-rao&theme=midnight-purple&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vinit-rao&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ## Programming Languages
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
