@@ -1,15 +1,42 @@
-Nice to meet you! I'm
-## [Vinit Rao](https://vinitrao.com)
+<div align="center">
 
-<br/>
+# ＶＩＮＩＴ _ ＲＡＯ
 
-<a href="https://www.linkedin.com/in/vinitrao1" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://www.youtube.com/@OfficialVinitRao" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="Youtube" />
-</a>
-<a href="mailto:example@email.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<h6>no dream is too big no dreamer is too small</h6>
+**` DEVELOPER `** ▰ **` DESIGNER `** ▰ **` MULTIMEDIA `**
+
+<table width="100%" border="0">
+<tr>
+<td width="40%" align="center">
+  <a href="https://vinitrao.com">
+    <img width="1137" height="506" alt="image" src="https://github.com/user-attachments/assets/4ccf60a8-3290-457c-91e1-2ff9e8a08431" />
+
+  </a>
+</td>
+<td width="60%">
+  <b>QUEST: QueueUp</b><br>
+  Full-stack Django lobby finder featuring IGDB API integration and real-time communications.
+</td>
+</tr>
+<tr>
+<td width="40%" align="center">
+  <a href="https://vinitrao.com">
+    <img width="1355" height="757" alt="image" src="https://github.com/user-attachments/assets/37c1961b-7a49-4d77-8797-5535dcc99496" />
+  </a>
+</td>
+<td width="60%">
+  <b>QUEST: Benny's Frozen Adventure</b><br>
+  3D physics-driven Unity game featuring isometric movement and custom stacking mechanics. Official Demo Day build.
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+  <a href="https://vinitrao.com">
+    <img width="1893" height="924" alt="image" src="https://github.com/user-attachments/assets/01d767fe-bffc-47ee-8d3f-8958a5bf9fac" />
+
+  </a>
+  <br><br>
+  [ <a href="https://vinitrao.com">check out my website :)</a> ]
+</div>
