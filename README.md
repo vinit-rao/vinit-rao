@@ -4,6 +4,17 @@
 
 **` DEVELOPER `** ▰ **` DESIGNER `** ▰ **` MULTIMEDIA `**
 
+<br>
+
+<div align="center">
+  <a href="https://vinitrao.com">
+    <img width="1893" height="924" alt="image" src="https://github.com/user-attachments/assets/01d767fe-bffc-47ee-8d3f-8958a5bf9fac" />
+
+  </a>
+  <br><br>
+  [ <a href="https://vinitrao.com">check out my website :)</a> ]
+  <br><br>
+</div>
 <table width="100%" border="0">
 <tr>
 <td width="40%" align="center">
@@ -13,7 +24,7 @@
   </a>
 </td>
 <td width="60%">
-  <b>QUEST: QueueUp</b><br>
+  <b>QueueUp</b><br>
   Full-stack Django lobby finder featuring IGDB API integration and real-time communications.
 </td>
 </tr>
@@ -24,19 +35,8 @@
   </a>
 </td>
 <td width="60%">
-  <b>QUEST: Benny's Frozen Adventure</b><br>
+  <b>Benny's Frozen Adventure</b><br>
   3D physics-driven Unity game featuring isometric movement and custom stacking mechanics. Official Demo Day build.
 </td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-  <a href="https://vinitrao.com">
-    <img width="1893" height="924" alt="image" src="https://github.com/user-attachments/assets/01d767fe-bffc-47ee-8d3f-8958a5bf9fac" />
-
-  </a>
-  <br><br>
-  [ <a href="https://vinitrao.com">check out my website :)</a> ]
-</div>
