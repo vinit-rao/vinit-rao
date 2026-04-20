@@ -1,6 +1,6 @@
 <div align="center">
 
-# ＶＩＮＩＴ _ ＲＡＯ
+# VINIT RAO
 
 **` DEVELOPER `** ▰ **` DESIGNER `** ▰ **` MULTIMEDIA `**
 
